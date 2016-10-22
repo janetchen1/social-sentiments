@@ -1,0 +1,13 @@
+{
+  "name": "message-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Facebook message content",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "lodash": "^4.13.1"
+  },
+  "author": "Janet Chen",
+  "license": "ISC"
+}
